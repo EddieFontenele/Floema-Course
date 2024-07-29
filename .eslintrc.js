@@ -4,7 +4,7 @@ module.exports = {
   globals: {
     'IS_DEVELOMENT': 'readonly'
   },
-  parsetOptions: {
+  parserOptions: {
     ecmasVersion: 2020
   }
 }
